@@ -1,0 +1,28 @@
+name: Studio Lashionista
+favicon: null
+layout_spectrum: 0.6865962364245206
+typography_spectrum: 0.13401115708984435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.25731342239305377
+  lightness: 0.31742699327878654
+  saturation: 0.033132519107311964
+  rhythmicContrast: 0.3640979186166078
+purpose: []
